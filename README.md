@@ -25,3 +25,7 @@ make run_test
 #run main.c
 make run_sort
 ```
+
+## Output
+![](screenshots/test.PNG)
+![](screenshots/main.PNG)
