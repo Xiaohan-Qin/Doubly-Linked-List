@@ -1,5 +1,5 @@
 ## Description
-Here is the source code of sorting a doubly linked list with the insertion sort algorithm. The C program is successfully compiled and run on a Linux system.
+Here is the source code of sorting a doubly linked list using insertion sort algorithm. The C program is successfully compiled and run on a Linux system. The program output is also shown below.
 
 ## File Instructions
 * linkedlist.h (definition of DoublyLinkedList and function prototypes)
